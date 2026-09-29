@@ -1,0 +1,18 @@
+{
+  "sourceRepository": "edder773/modumunje",
+  "sourceCommit": "5611b9b91d83c1fc9acc319cc977ffdf6e6f3c6c",
+  "note": "Exact-byte copies from the private source tree. SHA-256 is for provenance and change detection; no private source path outside these entries is exported.",
+  "files": [
+    { "exportPath": "src/original/CatalogFieldIcon.tsx", "sourcePath": "apps/frontend/src/features/study/components/catalog/catalog-field-icon.tsx", "sha256": "2094844abefba1cd835f793b695424b1ffc06c7cb62085b70641b1473a28b058" },
+    { "exportPath": "src/original/Modal.tsx", "sourcePath": "apps/frontend/src/features/study/components/modal.tsx", "sha256": "79657a745e05a5fa9c41dcdc025fb18bc1f12a00f466b138fa72b0f42805fb5b" },
+    { "exportPath": "src/original/StudyTopbar.tsx", "sourcePath": "apps/frontend/src/features/study/components/study-topbar.tsx", "sha256": "dcfeb1bd576fa05433a23e89d6224ba99831c0126331d4d00685e498cd645457" },
+    { "exportPath": "src/original/catalog-search.ts", "sourcePath": "apps/frontend/src/features/study/components/catalog/catalog-search.ts", "sha256": "82f253ca18ef900d0135dbe101948bfcfdf1061560872dcd3ad828b00a29223a" },
+    { "exportPath": "src/original/content-diagrams.css", "sourcePath": "apps/frontend/app/styles/content-diagrams.css", "sha256": "f78e5604cc2860df8e43b7f8524e8653982e0027695d0c8879c0ddb0a4f92509" },
+    { "exportPath": "src/original/course-preparation.css", "sourcePath": "apps/frontend/src/features/study/components/catalog/course-preparation.css", "sha256": "b23efda63e935cfdcbff90ae43fa25fd9e74d584b0299e373df4bd55a0671855" },
+    { "exportPath": "src/original/design-system-base.css", "sourcePath": "apps/frontend/app/styles/design-system-base.css", "sha256": "1518b2fb80ccf680451ecd23984c1ef989d741fa4664d03136b43940536ec00c" },
+    { "exportPath": "src/original/learning-field-view-model.ts", "sourcePath": "apps/frontend/src/features/study/model/learning-field-view-model.ts", "sha256": "b4bd5c386bcc2f1a08c806e23f7dad6b28c1259c5e63fcefaf51154e4b109bf0" },
+    { "exportPath": "src/original/public-theory.module.css", "sourcePath": "apps/frontend/src/features/public-content/public-theory.module.css", "sha256": "02e467603c49fe01eb4bf427929a81c05b44deade8826ae80443ecb831592162" },
+    { "exportPath": "src/original/public-theory.ts", "sourcePath": "packages/shared/src/study/public-theory.ts", "sha256": "9d154f73e2e911ce8cd2825ee7e63c5fffc69ce33d0adc32dee289bd009c8b86" },
+    { "exportPath": "src/original/route-status.css", "sourcePath": "apps/frontend/src/features/errors/route-status.css", "sha256": "7939ce46d16e98771d2cd5e6669c111c64a400a271497e3edd38105215c1108e" }
+  ]
+}
