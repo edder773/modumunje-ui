@@ -5,3 +5,5 @@
 /* Keep the original amber labels readable against their pale backgrounds. */
 .directory :global(.theory-category-tabs a span),
 .directory :global(.theory-card .category-label) { color: var(--amber-dark); }
+
+.continuation { margin-top: 18px; }

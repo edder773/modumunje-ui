@@ -25,7 +25,7 @@ export function searchCatalogFields(fields: CatalogFieldCard[], query: string): 
   });
 }
 
-export const CATALOG_PAGE_SIZE = 6;
+export const CATALOG_PAGE_SIZE = 12;
 
 export function getCatalogPage(fields: CatalogFieldCard[], { query = "", fieldId = "", page = 1 } = {}) {
   const matches = searchCatalogFields(fields, query).filter(field => !fieldId || field.id === fieldId);
